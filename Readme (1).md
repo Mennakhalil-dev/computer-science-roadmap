@@ -3,7 +3,7 @@
 |Content|
 | :------------:|
 |[Introduction c++](#introduction)|
-|[Missions](#missions)
+|[Missions](#missions)|
 |[Main Topics](#main-topics)|
 |[Core Level](#core-level)|
 |[Intermidiate Level](#intermidiate-level)|
@@ -22,6 +22,7 @@ The Roadmap has been designed to cover the fundamental topics in Computer Scienc
 2- First Step to your Tech Field by understanding the foundation of Software Systems
 
 3- Preparing for Software Engineering Interviews by Practicing Problem Solving and System Design
+
 4- Slove problem and know programming well
 
  ## Main Topics
@@ -95,8 +96,7 @@ STL
  هنا احنا عاوزين نفهم الأول الـ concepts الأساسية  
 تمام اختار الفيديوز المناسبة بالنسبة لك في الشرح 
 . [Object Oriented Programming](https://www.youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v) 
-. [Opject Oriented Programming](https://youtube.com/playlist?list=PL8DDsWuvM_EXVdXvLzDJGEOwiMsKU2srp&
-i=uWJdhLjNiqby9nwj)
+. [Opject Oriented Programming](https://youtube.com/playlist?list=PL8DDsWuvM_EXVdXvLzDJGEOwiMsKU2srp&i=uWJdhLjNiqby9nwj)
 . [UML](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
   
   المهم إنك تكون عارف تنفذ الـ 3 مشاريع دول في الحقيقة أنا أفضل يوصلوا 6 مشاريع لكن ع الأقل 3 مشاريع
@@ -110,12 +110,9 @@ Recommended(next step): [Head First Object Oriented Analysis and Design Book](ht
 head-first-object-oriented/0596008678/)
 
 #### **Data Structure** (helpful resources)
-1. [Mega Code "for linear data structures"](https://www.youtube.com/watch?v=SbDUW7_G3Xc&
-list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8)
-2. [data structure and algorithm(مدرس برمجه)](https://youtube.com/playlist?list=PLs4xH3XPr55guaS_NY0SQ6dQabpXK0xQ6&
-si=ETEUNJDO-7HzMnMq)
-3. [data structure(Adel nasim)](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&
-si=A2fJdhu15sMROpHk)
+1. [Mega Code "for linear data structures"](https://www.youtube.com/watch?v=SbDUW7_G3Xc&list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8)
+2. [data structure and algorithm(مدرس برمجه)](https://youtube.com/playlist?list=PLs4xH3XPr55guaS_NY0SQ6dQabpXK0xQ6&si=ETEUNJDO-7HzMnMq)
+3. [data structure(Adel nasim)](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&si=A2fJdhu15sMROpHk)
 4. Big (O)
    - [Soucre 1](https://www.youtube.com/watch?v=WRhEwrDoLSc&t=575s)
    - [Source 2](https://www.youtube.com/watch?v=wEbdQeVwLlo&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=1&pp=iAQB)
@@ -147,9 +144,9 @@ Azal2020-01-22-12-28-11-76901.pdf)
 ### **Operating Systems** 
 1- [Operating System Concepts](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)<br>
 2- [Memory Management 1](https://www.youtube.com/watch?v=cjZqwsxLVtQ&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=5)
-<br>
+
 3- [Memory Management 2](https://www.youtube.com/watch?v=EWof2WGvFCw&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=6)
-<br>
+
 4- [Virtual Memory](https://www.youtube.com/watch?v=1p1XXdLt_9g&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=7)
 
 OR 
